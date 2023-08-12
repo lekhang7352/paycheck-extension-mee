@@ -1,4 +1,5 @@
-# PayCheck for Twitter
+# PayCheck for Twitter lekhang7352@gmail.com
+
 
 tl;dr - I made an extension that (poorly) estimates how much money a tweet is worth
 
